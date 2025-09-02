@@ -5,7 +5,7 @@
 		"Mini projects to test out some interesting browser APIs: Shape Detector, Image Capture, Generic Sensors and Speech Recognition",
 	"main": "index.js",
 	"dependencies": {
-		"eslint": "^4.13.1"
+		"eslint": "^9.0.0"
 	},
 	"devDependencies": {},
 	"scripts": {
